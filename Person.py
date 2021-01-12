@@ -6,6 +6,8 @@ class Person:
 
     def myfunc(self):
         print("Hello my name is " + self.name + "And I am {r} years old".format(r=self.age))
+        print("done")
+
 
 
 
